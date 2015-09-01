@@ -10,6 +10,7 @@ add_message_files(
    PersonStamped.msg
    PositionMeasurementArray.msg
    PositionMeasurement.msg
+   PeoplePrediction.msg
 )
 
 generate_messages(
